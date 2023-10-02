@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ 
+
+#big{
+    margin: 5%;
+    border-radius: 6px;
+    height: 85.5vh;
+    margin-left: 20%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.1) ;
+    background-color: rgb(255, 255, 255);
+    width: 60%;
+    margin-bottom: 14%;
+}
+
+#left{
+    float: left;
+}
+
+
+#right{
+    float: right;
+    
+}
+
+img{
+    width: 49.1%;
+}
+
+form{
+    float: right;
+    margin-right: 30px;
+}
+ #username{
+    margin-left: -80px;
+ }
+
+ input{
+    padding: 7px;
+    outline: none;
+ }
+
+ #password{
+    margin-left: -10px;
+ }
+
+ #sign_in{
+    width: 130%;
+    padding: 10px;
+    margin-left: -80px;
+    color: #fff;
+    background-color: rgb(74, 196, 74);
+ }
+
+ a{
+    text-decoration: none;
+    color: green;
+ }
+ p{
+    color: green;
+    margin-left: 60px;
+ }
+
